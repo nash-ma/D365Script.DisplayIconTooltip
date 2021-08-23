@@ -1,6 +1,6 @@
 # D365Script.DisplayIconTooltip
-How to add customize list views that display icons and tooltip <br>
-Dynamics365のビューにアイコンとツールチップを表示させる。
+How to add icons and tooltips to a list view<br>
+Dynamics365のビューにアイコンとツールチップを追加する。
 
 ### 下記の通りにビュー一覧で成績によってアイコンとツールチップを表示させる。
 | 成績| アイコン | ツールチップ |
