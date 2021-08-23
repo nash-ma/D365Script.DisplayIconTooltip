@@ -14,3 +14,6 @@ Dynamics365のビューにアイコンとツールチップを表示させる。
 #### ■結果
 ###### ①アイコンの表示👇　<br><br> ![アイコンの表示](DisplayIconTooltip/img/result001.png "アイコンの表示")
 ###### ②ツールチップの表示👇　<br><br> ![ツールチップの表示](DisplayIconTooltip/img/result002.png "ツールチップの表示")
+
+#### ■参考：
+[リスト ビューにユーザー定義アイコンを表示](https://docs.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/customize/display-custom-icons-instead?view=op-9-1)
