@@ -11,9 +11,13 @@ Dynamics365のビューにアイコンとツールチップを追加する。
 | 69～60点 | 可 | 努力を要する成績です。 |
 | 59点以下 | 不 | より一層の努力を要する成績です。 |
 
-#### ■結果
+#### ■結果（PC版Webブラウザ）
 ###### ①アイコンの表示👇　<br><br> ![アイコンの表示](DisplayIconTooltip/img/result001.png "アイコンの表示")
 ###### ②ツールチップの表示👇　<br><br> ![ツールチップの表示](DisplayIconTooltip/img/result002.png "ツールチップの表示")
+
+#### ■結果（モバイルアプリDynamics365）
+###### ①Android端👇　<br><br> ![Android端](DisplayIconTooltip/img/result_android001.png "Android端")
+###### ①iPhone端(エラーがあり、現在は開けない状態)👇　<br><br> ![iPhone端](DisplayIconTooltip/img/result_iphone001.png "iPhone端")
 
 #### ■参考：
 [リスト ビューにユーザー定義アイコンを表示](https://docs.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/customize/display-custom-icons-instead?view=op-9-1)
