@@ -17,7 +17,7 @@ Dynamics365のビューにアイコンとツールチップを追加する。
 
 #### ■結果（モバイルアプリDynamics365）
 ###### ①Android端👇　<br><br> ![Android端](DisplayIconTooltip/img/result_android001.png "Android端")
-###### ①iPhone端(エラーがあり、現在は開けない状態)👇　<br><br> ![iPhone端](DisplayIconTooltip/img/result_iphone001.png "iPhone端")
+###### ①iPhone端👇　<br><br> ![iPhone端](DisplayIconTooltip/img/result_iphone000.png "iPhone端")
 
 #### ■参考：
 [リスト ビューにユーザー定義アイコンを表示](https://docs.microsoft.com/ja-jp/dynamics365/customerengagement/on-premises/customize/display-custom-icons-instead?view=op-9-1)
